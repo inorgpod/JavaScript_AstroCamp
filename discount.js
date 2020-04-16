@@ -1,27 +1,31 @@
+let seven11 = {
+  
+  coffee: {
+    id: c99,
+    type: '美式咖啡', 
+    price: 40,
+    size: ['small', 'medium','large'],
+    label:['red', 'green']
+  },
+
+  rice_ball: {
+    id: f22,
+    type: '御飯糰',
+    price: 39,
+    label:["red", "green"]
+  },
+
+  
+  
+
+
+  
+
+}
+
 function  getDiscount(){
 
-  let products = {
-  
-    coffee: {
-      type:  string, 
-      price: integer,
-      size: ["small", "medium","large"],
-      label:["red", "green"]
-    },
 
-    rice_ball: {
-      type:  string,
-      price: integer,
-      label: ["red", "green"]
-    },
-
-    
-    
-
-
-    
-
-  }
 }
 
 console.log()
